@@ -1,0 +1,11 @@
+{
+  "name": "pwntools",
+  "module": "./src/index.ts",
+  "type": "module",
+  "license": "MIT",
+  "author": "Mikkel ALMONTE--RINGAUD <contact@vexcited.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "^1.3.3"
+  }
+}
